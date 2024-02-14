@@ -9,4 +9,5 @@ func main() {
 		sum += i
 	}
 	fmt.Println(sum)
+	fmt.Println("i am learning git")
 }
